@@ -4,16 +4,16 @@
 
 # Read or watch:
 
-- [REST API concept page]
-- [Learn REST: A RESTful Tutorial]
-- [Designing a RESTful API with Python and Flask]
-- [HTTP access control (CORS)]
-- [Flask cheatsheet]
-- [What are Flask Blueprints, exactly?]
-- [Flask]
-- [Modular Applications with Blueprints]
-- [Flask tests]
-- [Flask-CORS]
+- [REST API concept page](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/API)
+- [Learn REST: A RESTful Tutorial](https://www.codecademy.com/learn/learn-rest)
+- [Designing a RESTful API with Python and Flask](https://realpython.com/blog/python/designing-a-restful-api-with-python-and-flask/)
+- [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- [Flask cheatsheet](http://flask.pocoo.org/docs/1.0/quickstart/#cheatsheet)
+- [What are Flask Blueprints, exactly?](https://stackoverflow.com/questions/18289715/what-are-flask-blueprints-exactly)
+- [Flask](http://flask.pocoo.org/)
+- [Modular Applications with Blueprints](http://flask.pocoo.org/docs/1.0/blueprints/)
+- [Flask tests](http://flask.pocoo.org/docs/1.0/testing/#built-in-test-client)
+- [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
 
 ## Learning Objectives
 
